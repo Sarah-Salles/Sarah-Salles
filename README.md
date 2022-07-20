@@ -14,7 +14,7 @@
 <p>HTML/CSS/SASS/JavaScript/ReactJS/Next.js</p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah-salles&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-salles&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarah-salles&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-salles&layout=compact" />
 </div>
 
