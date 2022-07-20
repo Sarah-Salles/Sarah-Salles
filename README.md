@@ -1,7 +1,7 @@
 ### Hey! Bem vindo!
 #### Sou um desenvolvedora Full Stack Recode Pro
 
-<p>No ano de 2021 decidi estudar programação Front-end, e me apaixonei por esse mundo. Todo dia estudo e aprendo novas coisas sobre programação.</p>
+<p>Estou em transição de carreira.</p>
 
 <a href="https://www.linkedin.com/in/sarah-salles-0ba936159" alt="linkedin">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +14,7 @@
 <p>HTML/CSS/SASS/JavaScript/ReactJS/Next.js</p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasInmanuel&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasInmanuel&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarah-salles&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-salles&layout=compact&theme=dark" />
 </div>
 
