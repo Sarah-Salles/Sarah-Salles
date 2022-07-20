@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey! Bem vindo!
+#### Sou um desenvolvedora Full Stack Recode Pro
 
-<!--
-**Sarah-Salles/Sarah-Salles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>No ano de 2021 decidi estudar programação Front-end, e me apaixonei por esse mundo. Todo dia estudo e aprendo novas coisas sobre programação.</p>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/sarah-salles-0ba936159" alt="linkedin">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/sarahsalles28/" alt="instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<p>HTML/CSS/SASS/JavaScript/ReactJS/Next.js</p>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasInmanuel&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasInmanuel&layout=compact&theme=dark" />
+</div>
+
