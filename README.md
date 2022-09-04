@@ -1,5 +1,5 @@
 ### Hey! Bem vindo!
-#### Sou um desenvolvedora Full Stack Recode Pro
+#### Sou uma desenvolvedora Full Stack Recode Pro
 
 <p>Estou em transição de carreira.</p>
 
